@@ -29,23 +29,6 @@ Alguns Padrões complexos para objetivos simples
 Podem trazer otimizações prematuras para o seu código (YAGNI - You ain't gonna need it)
 
 ### Padrões Recorrentes
-____________________________________________________________________
-|   *Creational*	|  *Structural*	  |      *Behavioural*        \*\     
------------------------------------------------------------------ | |                      
-|  Abstract factory |  Adapter	      |  Interpreter              | |
-|  Factory method   |  Bridge	      |  Template method          | |
-|  Builder	        |  Composite      |  Chain of responsibility  | |
-|  Prototype	    |  Decorator	  |  Iterator                 | |
-|  Singleton	    |  Façade	      |  Command                  | |
-|	                |  Flyweight	  |  Mediator                 | |
-|	                |  Proxy	      |  Memento                  | |
-|		            |                 |  Observer                 | |
-|		            |                 |  State                    | |
-|		            |                 |  Strategy                 | |
-|		            |                 |  Visitor                  | |
------------------------------------------------------------------ | |              
-\-----------------------------------------------------------------\_\
-
 | *Creational*  |  *Structural*  |  *Behavioural*  | 
 | ------------------- | ------------------- | ------------------- | 
 |  Abstract factory |  Adapter	      |  Interpreter              | 
