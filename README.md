@@ -45,3 +45,17 @@ ____________________________________________________________________
 |		            |                 |  Visitor                  | |
 ----------------------------------------------------------------- | |              
 \-----------------------------------------------------------------\_\
+
+| *Creational*  |  *Structural*  |  *Behavioural*  | 
+| ------------------- | ------------------- | ------------------- | 
+|  Abstract factory |  Adapter	      |  Interpreter              | 
+|  Factory method   |  Bridge	      |  Template method          | 
+|  Builder	        |  Composite      |  Chain of responsibility  | 
+|  Prototype	    |  Decorator	  |  Iterator                 | 
+|  Singleton	    |  Façade	      |  Command                  | 
+|	                |  Flyweight	  |  Mediator                 | 
+|	                |  Proxy	      |  Memento                  | 
+|		            |                 |  Observer                 | 
+|		            |                 |  State                    | 
+|		            |                 |  Strategy                 | 
+|		            |                 |  Visitor                  | 
