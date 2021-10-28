@@ -39,3 +39,8 @@ Catalogados e popularizados no livro "Padrões de projeto - Soluções reutiliz�
 |		            |                 |  State                    | 
 |		            |                 |  Strategy                 | 
 |		            |                 |  Visitor                  | 
+
+### Referências
+- Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos - Erich Gamma
+- Padrões de Projeto - Otávio Miranda
+
