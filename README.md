@@ -19,7 +19,7 @@ Catalogados e popularizados no livro "Padrões de projeto - Soluções reutiliz�
 - Reutilização de códigos já prontos e testados (Não precisa reinventar a roda)
 - Padrões universais que simplificam o entedimento do código
 - Reutilização do código na arquitetura (DRY - Don't repeat yourself)
-- Aplicação dos princípios do design orientado a objetos (*SOLID)
+- Aplicação dos princípios do design orientado a objetos (SOLID)
 
 ## Motivos Negativos
 - Alguns Padrões complexos para objetivos simples
